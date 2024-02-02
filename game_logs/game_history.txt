@@ -1,1 +1,4 @@
-Time: 1706882168.1851275, Game Started
+Time: 1706882357.1525626, Game Started
+Time: 1706882364.3418531, Guess: 34, random_integer: 23. Too high
+Time: 1706882366.6535668, Guess: 22, random_integer: 23. Too low
+Time: 1706882369.6555254, Guess: 24, random_integer: 23. Too high
